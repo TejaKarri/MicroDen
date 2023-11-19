@@ -1,0 +1,32 @@
+.section-header {
+    background-image: url("../resources/images/banner-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid black;
+}
+.section-container {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 10px;
+}
+.main-header {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    padding: 50px 0px 0px 0px;
+}
+.main-text-content {
+    color: #fff;
+    align-items: left;
+}
+h2 {
+    font-size: 40px;
+    letter-spacing: 0px;
+    margin: 0px;
+}
+.main-image-wrapper {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    padding: 10px;
+}
